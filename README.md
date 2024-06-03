@@ -2,10 +2,11 @@
 
 ## TODOS
 
-- [ ] Bootstrap the Project
-- [ ] Setup Github and Push the changes
-- [ ] Make it deploy (w/ vercel)
-- [ ] Scaffold basic UI with mock data
+- [x] Bootstrap the Project
+- [x] Setup Github and Push the changes
+- [x] Make it deploy (w/ vercel)
+- [x] Scaffold basic UI with mock data
+- [ ] Tidy up build process
 - [ ] Actually setup the database (w/ vercel postgress)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
