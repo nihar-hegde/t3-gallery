@@ -7,7 +7,7 @@ import Link from "next/link";
 const Images = async () => {
   const images = await getMyImages();
   return (
-    <div className="flex flex-wrap justify-center gap-4">
+    <div className="flex flex-wrap justify-center gap-4 p-4">
       {images.map((image) => (
         <div className="flex h-48 w-48 flex-col" key={image.id}>
           <Link href={`/img/${image.id}`}>
