@@ -16,7 +16,7 @@
 - [x] Error management (w/sentry)
 - [x] Routing/Image page (parallel routes)
 - [x] Add shadcn ui
-- [ ] add toast for upload
+- [x] add toast for upload
 - [ ] Delete button (w/ server actions)
 - [ ] Analytics (w/posthog)
 - [ ] Rate Limiting (w/upstash)
