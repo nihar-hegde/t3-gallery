@@ -18,5 +18,5 @@
 - [x] Add shadcn ui
 - [x] add toast for upload
 - [x] Analytics (w/posthog)
-- [ ] Delete button (w/ server actions)
-- [ ] Rate Limiting (w/upstash)
+- [x] Delete button (w/ server actions)
+- [x] Rate Limiting (w/upstash)
